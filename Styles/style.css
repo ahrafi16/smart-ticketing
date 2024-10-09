@@ -1,0 +1,19 @@
+/* google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.font-raleway{
+    font-family: "Raleway", sans-serif;
+}
+
+/* seat design */
+.bus-seat{
+    background-color: #0307120D;
+    padding: 10px 12px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.r{
+    background-color: none;
+    padding: 10px 12px;
+}
