@@ -29,6 +29,8 @@ function getSeat(element) {
     // set bg of selected seat
     const elemnts = document.getElementById(seatId);
     elemnts.classList.add('bg-[#1DD100]');
+    elemnts.classList.add('text-white');
+    
 
 
     // set how many seat selected

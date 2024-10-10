@@ -5,6 +5,9 @@
     font-family: "Raleway", sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
 /* seat design */
 .bus-seat{
     background-color: #0307120D;
